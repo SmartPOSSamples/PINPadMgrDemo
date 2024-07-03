@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PINPadMgrDemo</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="logcat_output">logcat output</string>
+    <string name="logcat_clear">logcat clear</string>
+    <string name="interval_format_error">The format of interval-time is error!</string>
+    <string name="introduction">Initialization configuration</string>
+
+    <string name="autotest_run3">resetTransferKey</string>
+    <string name="autotest_run4">resetMasterKey</string>
+
+    <string name="settings">Clear Logs</string>
+</resources>
